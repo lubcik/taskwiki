@@ -92,7 +92,7 @@ Tasks can be grouped - simply written in one block. This has the advantage
 of any child tasks being marked as dependencies of the parent tasks.
 
     * [ ] Get married
-        * [ ] Find a girlfriend
+        * [X] Find a girlfriend
         * [ ] Buy a ring
         * [ ] Propose
 
@@ -111,7 +111,7 @@ fashion (respecting dependencies).
 
     == Home tasks | project:Home ==
     * [ ] Feed the dog (2015-08-08)
-    * [ ] Tidy up the house !!
+    * [ ] Tidy up the house !!!!!!!!!!!!!
       * [ ] Wash the dishes
       * [ ] Declare war on the cobwebs
 
@@ -196,7 +196,7 @@ modification:
 
 Task is instantly updated:
 
-    * [ ] Tidy up the house !! (2015-08-24 00:00)
+    * [ ] Tidy up the house !! (2016-01-18 00:00)
 
 Task modification commands can be performed on a task currently below the
 cursor, or on a visually selected group of tasks.
